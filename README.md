@@ -4,7 +4,7 @@
 <!-- Título e texto animado com fonte delicada e lacinhos -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playball&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=550&lines=%F0%9F%8E%80+Hello%2C+my+name+is+Seu+Nome+%F0%9F%8E%80;%F0%9F%8C%B8+Welcome+to+my+GitHub+%F0%9F%8C%B8;%E2%9C%A8+Software+Developer+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playball&size=32&pause=1000&color=F48FB1&center=true&vCenter=true&width=550&lines=%F0%9F%8E%80+Hello%2C+my+name+is+Sofia+%F0%9F%8E%80;%F0%9F%8C%B8+Welcome+to+my+GitHub+%F0%9F%8C%B8;%E2%9C%A8+Software+Developer+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
